@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(163, 179, 23);
+}
+img {
+    width: 500px;
+    height: 500px;
+    float: left;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#heading {
+    text-align: center;
+    background-color: brown;
+    
+}
+ul {
+    float: left;
+}
+h2 {
+    text-align: center;
+    background-color: whitesmoke;
+}
+div.content {
+    background-color: cyan;
+}
+
+div#subtitle {
+    background-color: darkblue;
+}
